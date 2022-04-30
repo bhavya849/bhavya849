@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhavya849
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me 
 email: bhavya.manocha@squareboat.com
 
